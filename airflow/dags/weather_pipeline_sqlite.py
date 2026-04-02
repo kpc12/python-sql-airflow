@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Default notebook
-# 
-# This default notebook is executed using a Lakeflow job as defined in resources/sample_job.job.yml.
-
-
-
-
 import sys
 print(sys.executable)
 

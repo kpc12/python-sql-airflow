@@ -21,7 +21,7 @@ import glob
 import sys
 from datetime import datetime, timezone
 
-API_KEY = "b5cdd75cdaf74593ce17b7cf062cb3fe"
+API_KEY = "***************************************"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 CITIES = ["Mumbai", "Delhi", "Bangalore", "Chennai", "Hyderabad"]
 RAW = "/home/kaustubh/airflow/raw_json"
